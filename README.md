@@ -18,4 +18,4 @@
 - KNN
 
 # Output
-<img width="602" alt="image" src="https://user-images.githubusercontent.com/83395642/219961928-5384ae75-37c4-4130-b944-b04ddc55624c.png">
+<img width="594" alt="image" src="https://user-images.githubusercontent.com/83395642/219962143-87d06b10-045f-484f-a086-b4b26c7c3892.png">
